@@ -6,6 +6,6 @@ As soluções apresentadas até o momento são dos sequintes sites:
 - [Codeforces](https://codeforces.com/)
 - [Neps Academy](https://neps.academy/)
 - [HackerRank](https://www.hackerrank.com/)
-- [Uva Online Judge](https://onlinejudge.org/)
+- [UVA Online Judge](https://onlinejudge.org/)
 
-Também escrevo alguns problemas às vezes, você pode resolvê-los [aqui.](https://www.urionlinejudge.com.br/judge/pt/problems/author/253)
+Também escrevo alguns problemas às vezes, você pode resolvê-los [aqui.](https://www.urionlinejudge.com.br/judge/pt/problems/author/253) (Existe a previsão de uma nova prova com 14 questões pra ocorrer em algum comento de agosto de 2020. 😉)
