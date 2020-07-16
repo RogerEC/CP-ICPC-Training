@@ -1,7 +1,7 @@
 # Competitive Programming - ICPC Training
-Repositório criado para organizar minhas soluções em diversos juizes online e quem sabe compartilhar algumas dicas de programação competitiva no futuro. 🙂
+Repositório criado para organizar minhas soluções em diversos juízes online e quem sabe compartilhar algumas dicas de programação competitiva no futuro. 🙂
 
-As soluções apresentadas até o momento são dos sequintes sites:
+As soluções apresentadas até o momento são dos seguintes sites:
 - [URI Online Judge](https://www.urionlinejudge.com.br/)
 - [Codeforces](https://codeforces.com/)
 - [Neps Academy](https://neps.academy/)
