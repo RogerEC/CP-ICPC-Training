@@ -8,4 +8,4 @@ The solutions presented so far are from the following sites:
 - [HackerRank](https://www.hackerrank.com/)
 - [UVA Online Judge](https://onlinejudge.org/)
 
-I also write some problems sometimes, you can solve them [here.] (https://www.urionlinejudge.com.br/judge/en/problems/author/253) (There is forecast of a new test with 14 questions to take place at some point in August 2020. 😉)
+I also write some problems sometimes, you can solve them [here.](https://www.urionlinejudge.com.br/judge/en/problems/author/253) (There is forecast of a new test with 14 questions to take place at some point in August 2020. 😉)
