@@ -1,0 +1,7 @@
+cod1,qt1,pc1=input().split(" ")
+cod2,qt2,pc2=input().split(" ")
+qt1=int(qt1)
+pc1=float(pc1)
+qt2=int(qt2)
+pc2=float(pc2)
+print('VALOR A PAGAR: R$ %.2f' %(qt1*pc1+qt2*pc2))
